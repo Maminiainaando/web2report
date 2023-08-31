@@ -1,0 +1,9 @@
+.profile {
+    display: flex;
+}
+
+.profileRight {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
